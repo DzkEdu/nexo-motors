@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <circle cx="100" cy="100" r="100" fill="#0E0E0F"/>
+  <circle cx="100" cy="100" r="88" fill="#FFFFFF" stroke="#F26A1B" stroke-width="7"/>
+  <g transform="translate(-2 0)">
+    <!-- ROTA -->
+    <path d="M43 96V57.5H51A11 11 0 0 1 51 79.5H43M52 79.5L63 96" fill="none" stroke="#F26A1B" stroke-width="11"/>
+    <rect x="76.5" y="57.5" width="19" height="33" rx="8" fill="none" stroke="#4A4A4D" stroke-width="11"/>
+    <path d="M104 57.5H132M118 57.5V96" fill="none" stroke="#0E0E0F" stroke-width="11"/>
+    <path d="M134 96L147 52H153L166 96H157L155 89H145L143 96ZM150 72.3L152.3 80H147.7Z" fill="#0E0E0F" fill-rule="evenodd"/>
+    <!-- MOTORS -->
+    <g fill="none" stroke="#0E0E0F" stroke-width="4" stroke-linejoin="round">
+      <path d="M52 122V106L56.5 116L61 106V122"/>
+      <rect x="69.5" y="106" width="9" height="14" rx="4"/>
+      <path d="M85 106H98M91.5 106V122"/>
+      <rect x="104.5" y="106" width="9" height="14" rx="4"/>
+      <path d="M122 122V106H127A3.5 3.5 0 0 1 127 113H122M127 113L132 122"/>
+      <path d="M149 108.5C147.5 105.5 139.5 105 139.5 109.5C139.5 113.5 148.5 112.5 148.5 116.5C148.5 121 140.5 121 139 118" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="100" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="9.5" fill="#F26A1B">Compra · Venda · Consignação</text>
+</svg>
